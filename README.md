@@ -141,3 +141,8 @@ just click this icon ![Run icon](https://i.imgur.com/UPUZvN7.png)
 ## Acknowledgments
 
 * [Franks Rebecca](https://riggaroo.co.za/custom-file-template-group-android-studiointellij/)
+
+## Relating Topics
+- [TabLayout Activity Template](https://github.com/anangkur/TabActivityTemplate)
+- [TabLayout Activity in FragmentLayout Template](https://github.com/anangkur/TabActivityInFragmentTemplate)
+- [TabLayout Activity in FragmentLayout with RecyclerView Template](https://github.com/anangkur/TabActivityInFragmentWithRecyclerTemplate)
