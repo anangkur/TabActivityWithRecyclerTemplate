@@ -1,6 +1,6 @@
-# Tab Activity with RecyclerView Template
+# TabLayout Activity with RecyclerView Template
 
-Tab Activity with RecyclerView template for android studio
+TabLayout Activity with RecyclerView Template for android studio
 
 <img src="https://i.imgur.com/F02l1UG.png" width="200">
 
